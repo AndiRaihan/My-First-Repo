@@ -4,4 +4,4 @@ NPM     : 2106631412
 
 Kelas   : A
 
-Hobi    : Tidur
+Hobi    : Turu
